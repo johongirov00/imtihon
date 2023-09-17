@@ -193,6 +193,14 @@ line-height: normal;
     display: none;
 }
 
+@media(max-width:374px){
+.btno{
+display: none;
+}
+
+}
+
+
 @media(max-width:768px){
     ul{
         display: none;
@@ -255,9 +263,6 @@ line-height: normal;
            }
                    
     
-}
-@media(max-width:375px){
-
 }
 // @media(max-width: 1280px){
 //         ul{
